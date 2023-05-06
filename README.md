@@ -1,4 +1,4 @@
-# FrameWork-Scrum
+# Framework-Scrum
 Projeto do curso Formação Scrum Master Certification na DIO
 
 
